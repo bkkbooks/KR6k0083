@@ -1,0 +1,37 @@
+canonical_identifier: bkk:krp/KR6k0083/T/v1/markers/0
+seq: 0
+markers:
+  front:
+  - {type: line-break, offset: 0, content: '', id: KR6k0083_T_000-0689b06, ed: T, 'n': 0689b06}
+  - {type: line-break, offset: 0, content: '', id: KR6k0083_T_000-0689b07, ed: T, 'n': 0689b07}
+  - {type: line-break, offset: 0, content: '', id: KR6k0083_T_000-0689b08, ed: T, 'n': 0689b08}
+  - {type: punctuation, offset: 0, content: 'N', id: KR6k0083_T_000-bkkpn1}
+  - {type: punctuation, offset: 0, content: o, id: KR6k0083_T_000-bkkpn2}
+  - {type: punctuation, offset: 0, content: ., id: KR6k0083_T_000-bkkpn3}
+  - {type: punctuation, offset: 0, content: '1', id: KR6k0083_T_000-bkkpn4}
+  - {type: punctuation, offset: 0, content: '8', id: KR6k0083_T_000-bkkpn5}
+  - {type: punctuation, offset: 0, content: '1', id: KR6k0083_T_000-bkkpn6}
+  - {type: punctuation, offset: 0, content: '5', id: KR6k0083_T_000-bkkpn7}
+  - {type: punctuation, offset: 0, content: '[', id: KR6k0083_T_000-bkkpn8}
+  - {type: punctuation, offset: 0, content: c, id: KR6k0083_T_000-bkkpn9}
+  - {type: punctuation, offset: 0, content: f, id: KR6k0083_T_000-bkkpn10}
+  - {type: punctuation, offset: 0, content: ., id: KR6k0083_T_000-bkkpn11}
+  - {type: punctuation, offset: 0, content: 'N', id: KR6k0083_T_000-bkkpn12}
+  - {type: punctuation, offset: 0, content: o, id: KR6k0083_T_000-bkkpn13}
+  - {type: punctuation, offset: 0, content: ., id: KR6k0083_T_000-bkkpn14}
+  - {type: punctuation, offset: 0, content: '1', id: KR6k0083_T_000-bkkpn15}
+  - {type: punctuation, offset: 0, content: '4', id: KR6k0083_T_000-bkkpn16}
+  - {type: punctuation, offset: 0, content: '8', id: KR6k0083_T_000-bkkpn17}
+  - {type: punctuation, offset: 0, content: '4', id: KR6k0083_T_000-bkkpn18}
+  - {type: punctuation, offset: 0, content: ']', id: KR6k0083_T_000-bkkpn19}
+  - {type: line-break, offset: 0, content: '', id: KR6k0083_T_000-0689b09, ed: T, 'n': 0689b09}
+  - {type: variant, offset: 1039, length: 1, content: 經T40n1815_p0705c19, 大: 輕}
+  - {type: variant, offset: 1178, length: 1, content: 慄X38n689_p0515b14T14n0468_p0493a02, 大: 慓}
+  - {type: variant, offset: 7216, length: 1, content: 漂T40n1813_p0620c11, 大: 標}
+  - {type: variant, offset: 7598, length: 1, content: 壺, 大: 壼}
+  - {type: variant, offset: 7603, length: 1, content: 壺, 大: 壼}
+  - {type: variant, offset: 7611, length: 1, content: 譯, 大: 釋}
+  - {type: variant, offset: 7923, length: 1, content: 膊T18n0894bp0706a15, 大: 膞}
+  body: []
+  back: []
+hash: sha256:8d1ba2c81b5a78b6a0690561d496e01811423078d678e0162d9e3314ccffa3b2

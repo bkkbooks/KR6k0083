@@ -1,0 +1,712 @@
+canonical_identifier: bkk:krp/KR6k0083/T/v1
+canonical_location: https://kanripo.org/bkk/KR6k0083/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 梵網經古迹記
+  identifiers:
+    krp: KR6k0083
+    cbeta: T40n1815
+    cbeta_old_id: T40n1815
+    authorityid: CA0000972
+    json_key: T1815
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T40/T40n1815.xml
+    old_id: T40n1815
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6k0083_000-T.yaml, hash: 'sha256:b34286e86d157e0097ab35bb6be2daf01ff1640957ec80db1057c6a06878370f'}
+  - {seq: 1, filename: KR6k0083_001-T.yaml, hash: 'sha256:c1ee898879271217c352f89cb27984776990bed986716fe1d8440e95fbd57a1b'}
+  - {seq: 3, filename: KR6k0083_003-T.yaml, hash: 'sha256:f61b9191645249936f62465694d644eefdb691534bf924c397f6f59e3b6b7b9b'}
+  - {seq: 4, filename: KR6k0083_004-T.yaml, hash: 'sha256:d2a0fea79aa797ab95cb3fa9a14484bbc488cba037a057a4f045c9f870924df4'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6k0083_000-T.markers.yaml, hash: 'sha256:8d1ba2c81b5a78b6a0690561d496e01811423078d678e0162d9e3314ccffa3b2'}
+  - {seq: 1, role: markers, filename: assets/KR6k0083_001-T.markers.yaml, hash: 'sha256:1662193f5a516cade8e318fdc379fd6866b2bf82b3aa365c8d010cce09625eed'}
+  - {seq: 3, role: markers, filename: assets/KR6k0083_003-T.markers.yaml, hash: 'sha256:252f95b13594c904e8759c556c872c2542bfd3859c350b88a4c1e0fa388b5a0f'}
+  - {seq: 4, role: markers, filename: assets/KR6k0083_004-T.markers.yaml, hash: 'sha256:85bbb49edc481f6fd09ba18379b251d607646ebb1b62a2c637888d2e8a908186'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6k0083_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 15171
+  label: 梵網經古迹記卷上
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6k0083_T_002a-juan-start
+    span:
+    - body
+    - 0
+    - 11943
+  label: 梵網經古迹記卷下本
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6k0083_T_002a-mulu-1
+    span:
+    - body
+    - 4692
+    - 4692
+  label: 十重戒
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6k0083_T_002a-mulu-2
+    span:
+    - body
+    - 4692
+    - 4692
+  label: 1 快意殺生戒
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6k0083_T_002a-mulu-3
+    span:
+    - body
+    - 5561
+    - 5561
+  label: 2 劫盜人物戒
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6k0083_T_002a-mulu-4
+    span:
+    - body
+    - 6843
+    - 6843
+  label: 3 無慈行欲戒
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6k0083_T_002a-mulu-5
+    span:
+    - body
+    - 8065
+    - 8065
+  label: 4 故心妄語戒
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6k0083_T_002a-mulu-6
+    span:
+    - body
+    - 8491
+    - 8491
+  label: 5 酤酒生罪戒
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6k0083_T_002a-mulu-7
+    span:
+    - body
+    - 8613
+    - 8613
+  label: 6 談他過失戒
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6k0083_T_002a-mulu-8
+    span:
+    - body
+    - 9183
+    - 9183
+  label: 7 自讚毀他戒
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6k0083_T_002a-mulu-9
+    span:
+    - body
+    - 9495
+    - 9495
+  label: 8 慳生毀辱戒
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6k0083_T_002a-mulu-10
+    span:
+    - body
+    - 10567
+    - 10567
+  label: 9 瞋不受謝戒
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6k0083_T_002a-mulu-11
+    span:
+    - body
+    - 11066
+    - 11066
+  label: 10 毀謗三寶戒
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6k0083_T_002b-juan-start
+    span:
+    - body
+    - 0
+    - 13290
+  label: 梵網經古迹記卷下末
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6k0083_T_002b-mulu-1
+    span:
+    - body
+    - 156
+    - 156
+  label: 四十八輕戒
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6k0083_T_002b-mulu-2
+    span:
+    - body
+    - 156
+    - 156
+  label: 1 十戒
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6k0083_T_002b-mulu-3
+    span:
+    - body
+    - 156
+    - 156
+  label: 1 不敬師長戒
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6k0083_T_002b-mulu-4
+    span:
+    - body
+    - 614
+    - 614
+  label: 2 飲酒戒
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6k0083_T_002b-mulu-5
+    span:
+    - body
+    - 1034
+    - 1034
+  label: 3 食肉戒
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6k0083_T_002b-mulu-6
+    span:
+    - body
+    - 1397
+    - 1397
+  label: 4 食五辛戒
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6k0083_T_002b-mulu-7
+    span:
+    - body
+    - 1635
+    - 1635
+  label: 5 不舉教懺戒
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6k0083_T_002b-mulu-8
+    span:
+    - body
+    - 1982
+    - 1982
+  label: 6 住不請法戒
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6k0083_T_002b-mulu-9
+    span:
+    - body
+    - 2230
+    - 2230
+  label: 7 不能遊學戒
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6k0083_T_002b-mulu-10
+    span:
+    - body
+    - 2596
+    - 2596
+  label: 8 背正向邪戒
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6k0083_T_002b-mulu-11
+    span:
+    - body
+    - 2726
+    - 2726
+  label: 9 不瞻病苦戒
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6k0083_T_002b-mulu-12
+    span:
+    - body
+    - 3036
+    - 3036
+  label: 10 畜殺生具戒
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6k0083_T_002b-mulu-13
+    span:
+    - body
+    - 3177
+    - 3177
+  label: 2 十戒
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6k0083_T_002b-mulu-14
+    span:
+    - body
+    - 3177
+    - 3177
+  label: 1 通國使命戒
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6k0083_T_002b-mulu-15
+    span:
+    - body
+    - 3251
+    - 3251
+  label: 2 惱他販賣戒
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6k0083_T_002b-mulu-16
+    span:
+    - body
+    - 3401
+    - 3401
+  label: 3 無根謗毀戒
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6k0083_T_002b-mulu-17
+    span:
+    - body
+    - 3710
+    - 3710
+  label: 4 放火損生戒
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6k0083_T_002b-mulu-18
+    span:
+    - body
+    - 3827
+    - 3827
+  label: 5 法化違宗戒
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6k0083_T_002b-mulu-19
+    span:
+    - body
+    - 4115
+    - 4115
+  label: 6 貪財惜法戒
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6k0083_T_002b-mulu-20
+    span:
+    - body
+    - 4351
+    - 4351
+  label: 7 依勢惡求戒
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6k0083_T_002b-mulu-21
+    span:
+    - body
+    - 4566
+    - 4566
+  label: 8 虛偽作師戒
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6k0083_T_002b-mulu-22
+    span:
+    - body
+    - 4669
+    - 4669
+  label: 9 鬪諍兩頭戒
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6k0083_T_002b-mulu-23
+    span:
+    - body
+    - 4796
+    - 4796
+  label: 10 不救存亡戒
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6k0083_T_002b-mulu-24
+    span:
+    - body
+    - 5095
+    - 5095
+  label: 3 十戒
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6k0083_T_002b-mulu-25
+    span:
+    - body
+    - 5095
+    - 5095
+  label: 1 不忍違犯戒
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6k0083_T_002b-mulu-26
+    span:
+    - body
+    - 5345
+    - 5345
+  label: 2 慢人輕法戒
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6k0083_T_002b-mulu-27
+    span:
+    - body
+    - 5439
+    - 5439
+  label: 3 輕蔑新學戒
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6k0083_T_002b-mulu-28
+    span:
+    - body
+    - 5732
+    - 5732
+  label: 4 怖勝順劣戒
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6k0083_T_002b-mulu-29
+    span:
+    - body
+    - 6083
+    - 6083
+  label: 5 為主失儀戒
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6k0083_T_002b-mulu-30
+    span:
+    - body
+    - 6232
+    - 6232
+  label: 6 領賓違式戒
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6k0083_T_002b-mulu-31
+    span:
+    - body
+    - 6591
+    - 6591
+  label: 7 受他別請戒
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6k0083_T_002b-mulu-32
+    span:
+    - body
+    - 6777
+    - 6777
+  label: 8 自別請僧戒
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6k0083_T_002b-mulu-33
+    span:
+    - body
+    - 6923
+    - 6923
+  label: 9 邪命養身戒
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6k0083_T_002b-mulu-34
+    span:
+    - body
+    - 7080
+    - 7080
+  label: 10 詐親害生戒
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6k0083_T_002b-mulu-35
+    span:
+    - body
+    - 7275
+    - 7275
+  label: 4 九戒
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6k0083_T_002b-mulu-36
+    span:
+    - body
+    - 7275
+    - 7275
+  label: 1 不救尊厄戒
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6k0083_T_002b-mulu-37
+    span:
+    - body
+    - 7348
+    - 7348
+  label: 2 橫取他財戒
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6k0083_T_002b-mulu-38
+    span:
+    - body
+    - 7470
+    - 7470
+  label: 3 虛作無義戒
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6k0083_T_002b-mulu-39
+    span:
+    - body
+    - 7675
+    - 7675
+  label: 4 退菩提心戒
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6k0083_T_002b-mulu-40
+    span:
+    - body
+    - 8065
+    - 8065
+  label: 5 不發願戒
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6k0083_T_002b-mulu-41
+    span:
+    - body
+    - 8230
+    - 8230
+  label: 6 不生自要戒
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6k0083_T_002b-mulu-42
+    span:
+    - body
+    - 8568
+    - 8568
+  label: 7 故入難處戒
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6k0083_T_002b-mulu-43
+    span:
+    - body
+    - 9572
+    - 9572
+  label: 8 坐無次第戒
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6k0083_T_002b-mulu-44
+    span:
+    - body
+    - 10177
+    - 10177
+  label: 9 不行利樂戒
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6k0083_T_002b-mulu-45
+    span:
+    - body
+    - 10444
+    - 10444
+  label: 5 九戒
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6k0083_T_002b-mulu-46
+    span:
+    - body
+    - 10444
+    - 10444
+  label: 1 攝化漏失戒
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6k0083_T_002b-mulu-47
+    span:
+    - body
+    - 10894
+    - 10894
+  label: 2 惡求弟子戒
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6k0083_T_002b-mulu-48
+    span:
+    - body
+    - 11756
+    - 11756
+  label: 3 非處說戒
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6k0083_T_002b-mulu-49
+    span:
+    - body
+    - 12065
+    - 12065
+  label: 4 故違聖禁戒
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6k0083_T_002b-mulu-50
+    span:
+    - body
+    - 12180
+    - 12180
+  label: 5 不重經律戒
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6k0083_T_002b-mulu-51
+    span:
+    - body
+    - 12296
+    - 12296
+  label: 6 不化有情戒
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6k0083_T_002b-mulu-52
+    span:
+    - body
+    - 12817
+    - 12817
+  label: 7 說法乖儀戒
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6k0083_T_002b-mulu-53
+    span:
+    - body
+    - 12932
+    - 12932
+  label: 8 非法立制戒
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6k0083_T_002b-mulu-54
+    span:
+    - body
+    - 12982
+    - 12982
+  label: 9 自破內法戒
+  type: mulu
+  level: 1
+hash: sha256:5b78fe68a0c45445f3bf3a88e22d73f8f4f018c61a62f2c6f4fafbd275b736cc

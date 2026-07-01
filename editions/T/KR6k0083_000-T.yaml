@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6k0083/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 梵網經古迹記
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T40/T40n1815.xml
+    old_id: T40n1815
+hash: sha256:b34286e86d157e0097ab35bb6be2daf01ff1640957ec80db1057c6a06878370f
