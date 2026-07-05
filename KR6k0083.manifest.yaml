@@ -28,13 +28,14 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6k0083_000.yaml, hash: 'sha256:b34286e86d157e0097ab35bb6be2daf01ff1640957ec80db1057c6a06878370f'}
-  - {seq: 1, filename: KR6k0083_001.yaml, hash: 'sha256:8c1e848dfad35a52c2eacf93d71722759a56f2f9b2485fca8cf58e0d776b3b4f'}
-  - {seq: 3, filename: KR6k0083_003.yaml, hash: 'sha256:0e4e85117676292bb5e36cb6d2a6ed75e56b5b9c8a1d5609e9061167a6b92213'}
-  - {seq: 4, filename: KR6k0083_004.yaml, hash: 'sha256:c70da2eb90f10dc2eedaf9db3c96292b72f4a81ec41985f049418a12baf5169e'}
+  - {seq: 1, filename: KR6k0083_001.yaml, hash: 'sha256:c1ee898879271217c352f89cb27984776990bed986716fe1d8440e95fbd57a1b'}
+  - {seq: 3, filename: KR6k0083_003.yaml, hash: 'sha256:f61b9191645249936f62465694d644eefdb691534bf924c397f6f59e3b6b7b9b'}
+  - {seq: 4, filename: KR6k0083_004.yaml, hash: 'sha256:d2a0fea79aa797ab95cb3fa9a14484bbc488cba037a057a4f045c9f870924df4'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6k0083_001.markers.yaml, hash: 'sha256:49caa35ebf17199ec1fbf014a37e9bc5f242e5a9526219ad8013de436d7c64c2'}
-  - {seq: 3, role: markers, filename: assets/KR6k0083_003.markers.yaml, hash: 'sha256:b239b7c2f4094f92dc6d60b38d6de27e8ef47978e386736ad6a7d3b5cc8e10fb'}
-  - {seq: 4, role: markers, filename: assets/KR6k0083_004.markers.yaml, hash: 'sha256:4938767b44b2d4471f44a70e6aad3f77fbea3aab60b80f0778a2ce501196c4ca'}
+  - {seq: 0, role: markers, filename: assets/KR6k0083_000.markers.yaml, hash: 'sha256:006c97d72d67e901d21e6d358446026b9f5d06beae8fbf2aae4db4d2862bb960'}
+  - {seq: 1, role: markers, filename: assets/KR6k0083_001.markers.yaml, hash: 'sha256:0333e3dc2e11b2c666c3785ae09fd1048c17af09f694585929a0c5e892f762bf'}
+  - {seq: 3, role: markers, filename: assets/KR6k0083_003.markers.yaml, hash: 'sha256:efbcb87bb534e309d19c2e4add2c6c45f995dd07bb6478d360e5b1f4f4cf3ce8'}
+  - {seq: 4, role: markers, filename: assets/KR6k0083_004.markers.yaml, hash: 'sha256:563303e0f2214a63aa34a4bfa4885e7c6e880074c4175cc2c93b211fa143b969'}
 table_of_contents:
 - ref:
     seq: 1
@@ -716,7 +717,4 @@ table_of_contents:
   label: 9 自破內法戒
   type: mulu
   level: 1
-hash: sha256:ead01458e4cb80bba5b1ae8255cfca964b870b2b362ceca1cd8b575fdfd2f413
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:3754e577810bca43144fbf3fb943c81b0fb7e35b40a149ae05029e2012ff13a8
